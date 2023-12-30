@@ -5,8 +5,8 @@ ul {
 
 .gallery {
   display: flex;
-  width: 1440px;
-  padding: 24px 156px;
+  /* width: 1440px;
+  padding: 24px 156px; */
   margin: 0 auto;
   flex-direction: row;
   flex-wrap: wrap;
